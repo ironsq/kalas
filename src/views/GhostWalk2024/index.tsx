@@ -82,7 +82,7 @@ function Stage2() {
       </code>
       <p>
         <input type="checkbox" name="stage2" id="stage2" />
-        <label htmlFor="Samtliga barn har ritat en katt" />
+        <label htmlFor="stage2">Samtliga barn har ritat en katt</label>
       </p>
     </>
   );
